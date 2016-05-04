@@ -12,9 +12,6 @@ The scrolling mountainous background was derived from "Icefields" by Ryan Schroe
 a talented photographer from Vancouver who graciously released it on Unsplash under
 the CC0 license. Be sure to check out his other stuff over at flickr (link below)
 as well as all the other kickass CC0-licensed images at Unsplash (unsplash.com).
-
-
-
 Questions/comments/issues = just email or find me on Twitter. Have fun!
 
 AJ
