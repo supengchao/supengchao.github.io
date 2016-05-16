@@ -15,5 +15,7 @@
 
 4. [Android 如何使用github创建自己的个人主页](http://toutiao.com/i6283998263670473217/)
 
+5.[Android谁都知道dvm和jvm，但区别谁知道，看看吧](http://toutiao.com/i6285141026726216193/) 
+
 
 
