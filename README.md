@@ -17,6 +17,8 @@
  5.[Android谁都知道dvm和jvm，但区别谁知道，看看吧](http://toutiao.com/i6285141026726216193/) 
 
  6.[Android 2016 I/O大会内容详解，看完了解所有](http://toutiao.com/i6285525106902958594/) 
+ 
+ 7.[Android Google 提出的Vulkan到底有多性感](http://toutiao.com/i6286396240536011265/)
 
 
 
