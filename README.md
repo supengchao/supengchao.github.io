@@ -19,6 +19,8 @@
  6. [Android 2016 I/O大会内容详解，看完了解所有](http://toutiao.com/i6285525106902958594/) 
  
  7. [Android Google 提出的Vulkan到底有多性感](http://toutiao.com/i6286396240536011265/)
+ 
+ 8. [Android关于Gradle构建流程，简单易懂，收获满满](http://toutiao.com/i6287900194755314177/)
 
 
 
