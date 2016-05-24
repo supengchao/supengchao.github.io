@@ -22,5 +22,6 @@
  
  8. [Android关于Gradle构建流程，简单易懂，收获满满](http://toutiao.com/i6287900194755314177/)
 
+ 9. [Android关于Groovy语言，你知道哪些？](http://toutiao.com/i6287902961905435137/)
 
 
