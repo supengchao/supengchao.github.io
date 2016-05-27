@@ -25,5 +25,7 @@
  8. [Android关于Gradle构建流程，简单易懂，收获满满](http://toutiao.com/i6287900194755314177/)
 
  9. [Android关于Groovy语言，你知道哪些？](http://toutiao.com/i6287902961905435137/)
+ 
+ 10. [Android Studio使用经常遇到的坑](http://toutiao.com/i6288942008564187650/) 
 
 
