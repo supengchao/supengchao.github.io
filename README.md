@@ -28,4 +28,7 @@
  
  10. [Android Studio使用经常遇到的坑](http://toutiao.com/i6288942008564187650/) 
 
+ 11. [Android如何将自己的代码提交到JCenter](http://toutiao.com/i6289321090850226689/)
+ 
+
 
