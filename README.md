@@ -30,5 +30,8 @@
 
  11. [Android如何将自己的代码提交到JCenter](http://toutiao.com/i6289321090850226689/)
  
+ 12. [Android关于多dex打包的理解](http://toutiao.com/i6291251603081003522/) 
+ 
+ 
 
 
