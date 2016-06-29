@@ -31,6 +31,9 @@
  
  12. [Android关于多dex打包的理解](http://toutiao.com/i6291251603081003522/) 
  
+ 13. [Android 使用SVG图，无限适配](http://toutiao.com/i6301449980729098754/)
+ 
+ 
  
 
 
