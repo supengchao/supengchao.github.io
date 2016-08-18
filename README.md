@@ -33,7 +33,8 @@
  13. [Android 使用SVG图，无限适配](http://toutiao.com/i6301449980729098754/)
  
  14. [Android通过URI打开主流地图导航全解析](http://toutiao.com/i6317887237946081794/) 
- 
+  
+ 15. [Android Dagger2学习笔记](http://toutiao.com/i6320013234153718273/) 
  
  
 
